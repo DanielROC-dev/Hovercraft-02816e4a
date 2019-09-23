@@ -1,0 +1,38 @@
+html {
+cursor: wait;	
+}
+caption {
+    padding: 10px;
+    caption-side: top;
+}
+@media (hover: hover) {
+  a:hover {
+    background: yellow;
+  }
+}
+table {
+  
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+ 
+}
+th {
+	border-style: groove;
+}
+
+.colororange {
+	background: rgb(255,127,80);
+	padding: 10px;
+}
+.colorgreen {
+	background: rgb(124,252,0);
+	padding: 10px;
+}
+.colorpink {
+	background: rgb(255,192,203);
+	padding:10px;
+}
