@@ -6,7 +6,7 @@ caption {
     caption-side: top;
 }
 @media (hover: hover) {
-  a:hover {
+  td:hover {
     background: yellow;
   }
 }
